@@ -1,1 +1,1 @@
-# python_unittest
+# Sample program for NOSE and unittest framework
